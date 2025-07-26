@@ -47,7 +47,7 @@ Pygments==2.19.2
 Pympler==1.1
 python-dateutil==2.9.0.post0
 pytz==2025.2
-pywin32==310
+pywin32==310; platform_system == "Windows"
 referencing==0.36.2
 requests==2.32.4
 requests-oauthlib==2.0.0
