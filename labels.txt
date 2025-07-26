@@ -1,0 +1,8 @@
+0 Gall Midge
+1 Healthy
+2 Powdery Mildew
+3 Sooty Mould
+4 Anthracnose
+5 Bacterial Canker
+6 Cutting Weevil
+7 Die Back
