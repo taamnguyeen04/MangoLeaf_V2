@@ -390,7 +390,7 @@ st.markdown("""
 @st.cache(allow_output_mutation=True)
 def load_model_keras():
     """Load the trained Keras model"""
-    model = load_model("keras_Model.h5", compile=False)
+    model = load_model("keras_model.h5", compile=False)
     return model
 
 
